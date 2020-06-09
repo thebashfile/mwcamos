@@ -18,7 +18,7 @@ Instagram: @sprx.sh
 Discord: Cosmicツ#8370
 
 # Tutorial
-'''
+```
 1. Start MW / Warzone
 2. Open HxD
 3. Tools > Open Main Memory
@@ -33,4 +33,4 @@ Discord: Cosmicツ#8370
 12. When Finished click "OK" > save (CTRL+S) > click "OK"
 13. Goto Camos > Camo Category > Select
 14. Save as Weapon Mod
-'''
+```
