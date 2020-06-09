@@ -1,0 +1,146 @@
+Hex added by SPRX for efficiency
+
+[Special]
+camo_00a Hot and Cold 		63 61 6d 6f 5f 30 30 61
+camo_00b Activision 		63 61 6d 6f 5f 30 30 62
+camo_00c Banded 			63 61 6d 6f 5f 30 30 63
+
+[Completionist]
+camo_11a Gold 				63 61 6d 6f 5f 31 31 61
+camo_11b Platinum 			63 61 6d 6f 5f 31 31 62
+camo_11c Damascus			63 61 6d 6f 5f 31 31 63
+Camo_11d Obsidian 			43 61 6d 6f 5f 31 31 64
+
+[Spray Paint]
+camo_01a Desert Snake		63 61 6d 6f 5f 30 31 61
+camo_01b Commando			63 61 6d 6f 5f 30 31 62
+camo_01c Rip n'Tear			63 61 6d 6f 5f 30 31 63
+camo_01d Moroccan Snake 	63 61 6d 6f 5f 30 31 64
+camo_01e Pitter Patter 		63 61 6d 6f 5f 30 31 65
+camo_01f China Lake			63 61 6d 6f 5f 30 31 66
+camo_01g Pinstripe Suit		63 61 6d 6f 5f 30 31 67
+camo_01h Chain Link			63 61 6d 6f 5f 30 31 68
+camo_01i Nightfall			63 61 6d 6f 5f 30 31 69
+camo_01j Smoke				63 61 6d 6f 5f 30 31 6a
+
+[Woodland]
+camo_02a Swamp 				63 61 6d 6f 5f 30 32 61
+camo_02b Modern Woodland	63 61 6d 6f 5f 30 32 62
+camo_02c Desert Hybrid		63 61 6d 6f 5f 30 32 63
+camo_02d Sand Dance			63 61 6d 6f 5f 30 32 64
+camo_02e Marshland			63 61 6d 6f 5f 30 32 65
+camo_02f Kill Brush			63 61 6d 6f 5f 30 32 66
+camo_02g Warcom Greens 		63 61 6d 6f 5f 30 32 67
+camo_02h Warcom Blues 		63 61 6d 6f 5f 30 32 68
+camo_02i Nightfrost			63 61 6d 6f 5f 30 32 69
+camo_02j Canopy				63 61 6d 6f 5f 30 32 6a
+
+[Digital]
+camo_03a Urban Digital		63 61 6d 6f 5f 30 33 61
+camo_03b Jungle Digital		63 61 6d 6f 5f 30 33 62
+camo_03c Arctic Digital		63 61 6d 6f 5f 30 33 63
+camo_03d Forest Digital		63 61 6d 6f 5f 30 33 64
+camo_03e Marsh Digital		63 61 6d 6f 5f 30 33 65
+camo_03f Bark Digital		63 61 6d 6f 5f 30 33 66
+camo_03g Blue Digital		63 61 6d 6f 5f 30 33 67
+camo_03h Classic Digital	63 61 6d 6f 5f 30 33 68
+camo_03i Desert Digital		63 61 6d 6f 5f 30 33 69
+camo_03j Green Digital		63 61 6d 6f 5f 30 33 6a
+
+[Dragon]
+camo_04a H2O				63 61 6d 6f 5f 30 34 61
+camo_04b Dirt				63 61 6d 6f 5f 30 34 62
+camo_04c Moss				63 61 6d 6f 5f 30 34 63
+camo_04d Tagged				63 61 6d 6f 5f 30 34 64
+camo_04e Black Topo 		63 61 6d 6f 5f 30 34 65
+camo_04f Asphalt			63 61 6d 6f 5f 30 34 66
+camo_04g Crime Scene		63 61 6d 6f 5f 30 34 67
+camo_04h Neon Pink			63 61 6d 6f 5f 30 34 68
+camo_04i Trailblazer		63 61 6d 6f 5f 30 34 69
+camo_04j Foliage			63 61 6d 6f 5f 30 34 6a
+
+[Splinter]
+camo_05a Tundra				63 61 6d 6f 5f 30 35 61
+camo_05b Undergrowth		63 61 6d 6f 5f 30 35 62
+camo_05c Frostbite			63 61 6d 6f 5f 30 35 63
+camo_05d Ice Breaker		63 61 6d 6f 5f 30 35 64
+camo_05e Ruins				63 61 6d 6f 5f 30 35 65
+camo_05f Arctic Seafoam		63 61 6d 6f 5f 30 35 66
+camo_05g Angles 			63 61 6d 6f 5f 30 35 67
+camo_05h Autumn Dazzle		63 61 6d 6f 5f 30 35 68
+camo_05i Arctic Abstract	63 61 6d 6f 5f 30 35 69
+camo_05j Sharp Edges		63 61 6d 6f 5f 30 35 6a
+
+[Topo]
+camo_06a Off-Grid			63 61 6d 6f 5f 30 36 61
+camo_06b Night Seas			63 61 6d 6f 5f 30 36 62
+camo_06c Marsh Ops			63 61 6d 6f 5f 30 36 63
+camo_06d Forestation		63 61 6d 6f 5f 30 36 64
+camo_06e Phosphor			63 61 6d 6f 5f 30 36 65
+camo_06f Vector Trails		63 61 6d 6f 5f 30 36 66
+camo_06g Topo Trip			63 61 6d 6f 5f 30 36 67
+camo_06h Barren				63 61 6d 6f 5f 30 36 68
+camo_06i Vanished			63 61 6d 6f 5f 30 36 69
+camo_06j SandStorm			63 61 6d 6f 5f 30 36 6a
+
+[Tiger]
+camo_07a Overgrown			63 61 6d 6f 5f 30 37 61
+camo_07b Mudslide			63 61 6d 6f 5f 30 37 62
+camo_07c Dank Forest 		63 61 6d 6f 5f 30 37 63
+camo_07d Abominable			63 61 6d 6f 5f 30 37 64
+camo_07e Faded Veil			63 61 6d 6f 5f 30 37 65
+camo_07f Feral Beast		63 61 6d 6f 5f 30 37 66
+camo_07g Tiger Stripes		63 61 6d 6f 5f 30 37 67
+camo_07h Desert Cat			63 61 6d 6f 5f 30 37 68
+camo_07i Red Tiger 			63 61 6d 6f 5f 30 37 69
+camo_07j Blue Tiger 		63 61 6d 6f 5f 30 37 6a
+
+[Stripes]
+camo_08a Grassland 			63 61 6d 6f 5f 30 38 61
+camo_08b Tigers Mane		63 61 6d 6f 5f 30 38 62
+camo_08c The Khan			63 61 6d 6f 5f 30 38 63
+camo_08d Savannah			63 61 6d 6f 5f 30 38 64
+camo_08e Zebra				63 61 6d 6f 5f 30 38 65
+camo_08f Bluegrass 			63 61 6d 6f 5f 30 38 66
+camo_08g Africa				63 61 6d 6f 5f 30 38 67
+camo_08h Nu Wave Zebra		63 61 6d 6f 5f 30 38 68
+camo_08i Greengrass			63 61 6d 6f 5f 30 38 69
+camo_08j Pink Zebra			63 61 6d 6f 5f 30 38 6a
+
+[Reptile]
+camo_09a Python 			63 61 6d 6f 5f 30 39 61
+camo_09b Rattlesnake 		63 61 6d 6f 5f 30 39 62
+camo_09c Komodo  			63 61 6d 6f 5f 30 39 63
+camo_09d Blue Iguana 		63 61 6d 6f 5f 30 39 64
+camo_09e Chupacabra 		63 61 6d 6f 5f 30 39 65
+camo_09f Pink Python 		63 61 6d 6f 5f 30 39 66
+camo_09g Anaconda  			63 61 6d 6f 5f 30 39 67
+camo_09h Bullsnake 			63 61 6d 6f 5f 30 39 68
+camo_09i Gecko				63 61 6d 6f 5f 30 39 69
+camo_09j Gartersnake		63 61 6d 6f 5f 30 39 6a
+
+[Skulls]
+camo_10a Necropolis			63 61 6d 6f 5f 31 30 61
+camo_10b Corpse Digger		63 61 6d 6f 5f 31 30 62
+camo_10c Ossuary			63 61 6d 6f 5f 31 30 63
+camo_10d Haunting			63 61 6d 6f 5f 31 30 64
+camo_10e Phantom			63 61 6d 6f 5f 31 30 65
+camo_10f Forest Wraith		63 61 6d 6f 5f 31 30 66
+camo_10g Hemophiliac		63 61 6d 6f 5f 31 30 67
+camo_10h Skullduggery		63 61 6d 6f 5f 31 30 68
+camo_10i Cthulhu			63 61 6d 6f 5f 31 30 69
+camo_10j Lichyard			63 61 6d 6f 5f 31 30 6a
+
+[Teams]
+camo_12a Atlanta FaZe				63 61 6d 6f 5f 31 32 61
+camo_12b Chicago Huntsmen			63 61 6d 6f 5f 31 32 62
+camo_12c Dallas Empire				63 61 6d 6f 5f 31 32 63
+camo_12d Florida Mutineers			63 61 6d 6f 5f 31 32 64
+camo_12e Los Angeles Guerrillas		63 61 6d 6f 5f 31 32 65
+camo_12f London Royal Ravens		63 61 6d 6f 5f 31 32 66
+camo_12g Minnesota RÃ˜KKR			63 61 6d 6f 5f 31 32 67
+camo_12h New York Subliners			63 61 6d 6f 5f 31 32 68
+camo_12i OpTic Gaming Los Angeles	63 61 6d 6f 5f 31 32 69
+camo_12j Paris Legion				63 61 6d 6f 5f 31 32 6a
+camo_12k Seattle Surge				63 61 6d 6f 5f 31 32 6b
+camo_12l Toronto Ultra				63 61 6d 6f 5f 31 32 6c
