@@ -15,7 +15,7 @@
  - I am not responsible for any bans.
 
 Instagram: @sprx.sh
-Discord: Cosmicツ#8370
+Discord: Cosmic#8370
 
 # Tutorial
 ```
