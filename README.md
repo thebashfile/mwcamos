@@ -14,8 +14,8 @@
  - I am not responsible for what you do/use with this tutorial!
  - I am not responsible for any bans.
 
-Instagram: @sprx.sh
-Discord: Cosmic#8370
+Instagram: @bashfile
+Discord: Cosmic#1337
 
 # Tutorial
 ```
